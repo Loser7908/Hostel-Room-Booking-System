@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1658500390 source:c:\users\rishi bakshi\onedrive\desktop\hostel_mang\main.cpp
+	<iostream>
+	<conio.h>
+	<fstream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<process.h>
+	<bits/stdc++.h>
+	"header.h"
+
+1658500355 c:\users\rishi bakshi\onedrive\desktop\hostel_mang\header.h
+
